@@ -1,5 +1,4 @@
-[
-    {
+[   {
         "id": "remera-01",
         "titulo": "Remera 01",
         "imagen": "./img/remera-01.jpg",
@@ -104,4 +103,4 @@
         "categoria":"gorras",
         "precio": "4000"
     }
-];
+]
