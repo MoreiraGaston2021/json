@@ -1,4 +1,4 @@
-const productos = [
+[
     {
         "id": "remera-01",
         "titulo": "Remera 01",
@@ -104,4 +104,4 @@ const productos = [
         "categoria":"gorras",
         "precio": "4000"
     }
-];
+]
