@@ -104,4 +104,4 @@ const productos = [
         "categoria":"gorras",
         "precio": "4000"
     }
-]
+];
