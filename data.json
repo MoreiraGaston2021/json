@@ -1,4 +1,4 @@
-[
+const productos = [
     {
         "id": "remera-01",
         "titulo": "Remera 01",
